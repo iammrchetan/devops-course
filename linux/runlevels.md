@@ -51,4 +51,4 @@ Commands:
   u, U           Reexecute init daemon
 ```
 
-Previous: [Know about Linux directory structure](directotry-structure.md)
+Previous: [Know about Linux directory structure](directory-structure.md)
