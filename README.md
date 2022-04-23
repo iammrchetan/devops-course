@@ -1,7 +1,7 @@
 # devops-course
 
-**Duration: 2 + 2 hours every weekend**
-*Total: 12-14 sessions*
+**Duration: 2 + 2 hours every weekend**  
+*Total: 12-14 sessions*  
 
 ## Courses Covered for DevOps Learning
 1. What is DevOps? Why DevOps?
@@ -36,6 +36,6 @@
 12. Interview Questions & brief preparation
 =====================================================
 
-:man:
-:name_badge: Chetan Sharma
-:phone: +91-9818048682
+:man:  
+:name_badge: Chetan Sharma  
+:phone: +91-9818048682  
