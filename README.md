@@ -6,8 +6,13 @@
 ## Courses Covered for DevOps Learning
 1. What is DevOps? Why DevOps?
 2. [Basic Linux with lab](linux/linux.md)
-	1. Code Version Control & Git
-	2.  What is mvn?
+	1. Linux file/directory permissions [setfacl + sticky bits]
+	2. User creation
+	3. Simple Bash scripts
+	4. Linux commands with examples & usage
+	5. Logs parsing
+	6. Code Version Control & Git
+	7.  What is mvn?
 3. Jenkins?
 	1. What is Jenkins?
 	2. Jenkins configuration walkthrough
