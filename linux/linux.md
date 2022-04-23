@@ -11,5 +11,5 @@
 10. Linux Commands
 
 ## Go to Pages
-* ![Linux directorry structure](directotry-structure.md)
-* ![Linux runlevels](runlevels.md)
+* [Linux directorry structure](directotry-structure.md)
+* [Linux runlevels](runlevels.md)

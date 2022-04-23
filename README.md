@@ -5,7 +5,7 @@
 
 ## Courses Covered for DevOps Learning
 1. What is DevOps? Why DevOps?
-2. ![Basic Linux with lab](linux/linux.md)
+2. [Basic Linux with lab](linux/linux.md)
 	1. Code Version Control & Git
 	2.  What is mvn?
 3. Jenkins?
