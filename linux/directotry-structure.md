@@ -1,6 +1,9 @@
 # Linux
 
 ## Directory Structure
+
+![Linux Directory Structure](../images/Linux-Directory-Structure.jpeg)
+
 * /bin : All the executable binary programs (file) required during booting, repairing, files required to run into single-user-mode, and other important, basic commands viz., cat, du, df, tar, rpm, wc, history, etc.
 * /boot : Holds important files during boot-up process, including Linux Kernel.
 * /dev : Contains device files for all the hardware devices on the machine e.g., cdrom, cpu, etc

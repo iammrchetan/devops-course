@@ -34,7 +34,6 @@
 10.  Ansible
 11. Prometheus & implementation
 12. Interview Questions & brief preparation
-=====================================================
 
 :man:  
 :name_badge: Chetan Sharma  
