@@ -13,15 +13,17 @@
 	5. Logs parsing
 	6. Code Version Control & Git
 	7.  What is mvn?
-3. Jenkins?
+3. Code Version Control & Git
+4. What are build generation tools?
+5. Jenkins?
 	1. What is Jenkins?
 	2. Jenkins configuration walkthrough
 	3. What is CI/CD?
 	4. Jobs/pipeline creation?
 	5. Jenkins user Control
-4. What are artifact repositories? Nexus/Jfrog?
-5. What is Vagrant? Why Vagrant?
-6. Docker:
+6. What are artifact repositories? Nexus/Jfrog?
+7. What is Vagrant? Why Vagrant?
+8. Docker:
 	1. What & Why Docker?
 	2. Architecture
 	3. Docker alternatives?
@@ -30,15 +32,22 @@
 	6. Dockerfile implementation
 	7. Docker-compose with lab
 	8. CMD & Entrypoint with lab
-7. Kubernetes:
-	1. Architecture
+9. Kubernetes:
+	1. Architecture & components
 	2. Bootstrapping & different approaches
-	3. All objects with lab
-8. Production like pipeline implementation with lab
-9. Terraform
-10.  Ansible
-11. Prometheus & implementation
-12. Interview Questions & brief preparation
+	3. Deployments & Pods
+	4. Service
+	5. Daemonsets
+	6. StatefulSet
+	7. Readiness & Liveness probes
+	8. RBAC
+	9. Taints/Tolerations, NodeSelectors, Affinity/Anti-Affinity
+	10. Metrics server and aggregation layer
+10. Production like pipeline implementation with lab
+11. Terraform
+12.  Ansible
+13. Prometheus & implementation
+14. Interview Questions & brief preparation
 
 :man:  
 :name_badge: Chetan Sharma  
