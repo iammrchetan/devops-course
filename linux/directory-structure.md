@@ -75,7 +75,7 @@
 * **/version** – It displays the Linux version information.
 
 ## Log Files:
-* **/var/log/lastlog – It stores user last login info.
+* **/var/log/lastlog** – It stores user last login info.
 * **/var/log/messages** – It has all the global system messages.
 * **/var/log/wtmp** – It keeps a history of login and logout information.  
 

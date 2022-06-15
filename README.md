@@ -11,8 +11,6 @@
 	3. Simple Bash scripts
 	4. Linux commands with examples & usage
 	5. Logs parsing
-	6. Code Version Control & Git
-	7.  What is mvn?
 3. Code Version Control & Git
 4. What are build generation tools?
 5. Jenkins?
