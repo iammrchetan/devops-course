@@ -7,7 +7,9 @@ This includes 2 sections:
 * Linux booting process => [How linux boots?](https://www.thegeekstuff.com/2011/02/linux-boot-process/)
 * All linux and networking commands 
 * Linux performance troubleshooting
-* Virtual memory and demand paging => [Demand Paging](https://www.javatpoint.com/os-demand-paging) [VM](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)
+* Virtual memory and demand paging 
+** [Demand Paging](https://www.javatpoint.com/os-demand-paging) 
+** [VM](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)
 * Swap memory => [Swap Memory](https://linuxhint.com/swap_memory_linux/) 
 * File descriptor => [File descriptors](https://www.computerhope.com/jargon/f/file-descriptor.htm)
 * Chmod and chown
