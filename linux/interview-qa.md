@@ -28,7 +28,7 @@ This includes 2 sections:
 * Load average in server
 * Configuration and log files in Linux 
 * Init process and Daemon process
-* Zombie process and how to kill it 
+* Zombie process and how to kill it => ![Zombie Process](zombie-process.md) 
 * Load average in server
 
 ## Networking Concepts
