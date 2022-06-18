@@ -1,4 +1,4 @@
-# Linux Interviwe Question
+# Linux Interview Question
 This includes 2 sections:
 * OS Concepts
 * Networking Concepts
@@ -14,11 +14,15 @@ This includes 2 sections:
 * File descriptor => [File descriptors](https://www.computerhope.com/jargon/f/file-descriptor.htm)
 * Chmod and chown
 * Sticky bit setuid 
-* Systemd n init difference 
+* Systemd n init difference
+** [Techmint systemd vs init](https://www.tecmint.com/systemd-replaces-init-in-linux/)
+** [geeksforgeeks systemdvsinit](https://www.geeksforgeeks.org/systemd-vs-init-cheatsheet-for-linux/)
 * What is 644 indicate 
 * How to troubleshoot booting errors
 * Hardlink and softlink => [Hard and Soft Links](https://www.geeksforgeeks.org/difference-between-hard-link-and-soft-link/)
-* Process states in Linux
+* Process states in Linux 
+** [Process states](https://www.baeldung.com/linux/process-states)
+** [Detailed process states](https://www.cbtnuggets.com/blog/certifications/open-source/what-are-the-5-linux-process-states)
 * Inodes in Linux and how to find inodes =>  [inodes](https://www.javatpoint.com/linux-inodes)
 * Config files /etc/passwd /etc/shadow etc and information in them in detail
 * lsof Command 
